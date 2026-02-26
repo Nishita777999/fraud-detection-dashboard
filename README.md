@@ -34,7 +34,3 @@ It uses a RandomForest classifier trained with scikit-learn and exposes predicti
 - Model saved using Joblib
 
 ---
-
-## 🚀 How to Run
-
-### 1️⃣ Install dependencies
